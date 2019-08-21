@@ -1,0 +1,36 @@
+.myDiv{
+  background: rgb(124, 197, 124);
+  color: rgb(185, 92, 135);
+  text-align: center;
+  padding: 20px;
+  /* margin: 20px; */
+  border: 1px solid rgb(15, 53, 15);
+}
+
+.paragraph{
+  width: 250px;
+  background: rgb(76, 211, 221);
+  font-family: Georgia;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+
+.bodyDiv{
+  background: lightgray;
+}
+
+.input {
+  text-align: center;
+  background: rgb(165, 216, 72);
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.converter{
+  padding: 20px;
+  width: 250px;
+  background: rgb(151, 111, 151);
+  margin-left: 60%;
+  height: 500px;
+}
